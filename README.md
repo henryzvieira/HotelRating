@@ -1,5 +1,5 @@
 # HotelRating
-Hotel Rating Application designed in Java for Software Development first assignment
+Hotel Rating Application designed in Java for Software Development module - first assessment
 
 Functions:
 1 - Enter 3 Hotels
